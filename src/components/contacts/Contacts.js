@@ -72,7 +72,7 @@ export default class Contacts extends Component{
         })
         
         return (
-            <div>
+            <div className="appDiv">
               <SearchPanel onSearchChange = {this.onSearchChange}/>
               {contact}
             </div>
