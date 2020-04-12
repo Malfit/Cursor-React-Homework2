@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cursor-React-Homework2/static/css/main.4758dd35.chunk.css",
+    "main.js": "/Cursor-React-Homework2/static/js/main.8464bd2b.chunk.js",
+    "main.js.map": "/Cursor-React-Homework2/static/js/main.8464bd2b.chunk.js.map",
+    "runtime-main.js": "/Cursor-React-Homework2/static/js/runtime-main.c85ed79e.js",
+    "runtime-main.js.map": "/Cursor-React-Homework2/static/js/runtime-main.c85ed79e.js.map",
+    "static/js/2.46cad634.chunk.js": "/Cursor-React-Homework2/static/js/2.46cad634.chunk.js",
+    "static/js/2.46cad634.chunk.js.map": "/Cursor-React-Homework2/static/js/2.46cad634.chunk.js.map",
+    "index.html": "/Cursor-React-Homework2/index.html",
+    "precache-manifest.ff3966e9c8705a83ad3222fa914a3aa5.js": "/Cursor-React-Homework2/precache-manifest.ff3966e9c8705a83ad3222fa914a3aa5.js",
+    "service-worker.js": "/Cursor-React-Homework2/service-worker.js",
+    "static/css/main.4758dd35.chunk.css.map": "/Cursor-React-Homework2/static/css/main.4758dd35.chunk.css.map",
+    "static/js/2.46cad634.chunk.js.LICENSE.txt": "/Cursor-React-Homework2/static/js/2.46cad634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c85ed79e.js",
+    "static/js/2.46cad634.chunk.js",
+    "static/css/main.4758dd35.chunk.css",
+    "static/js/main.8464bd2b.chunk.js"
+  ]
+}
